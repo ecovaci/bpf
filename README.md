@@ -1,6 +1,8 @@
 # bpf
 ### Basic Proxy Facade for Kerberos
 
+**This project has been discontinued, replaced by [winfoom](https://github.com/ecovaci/winfoom)**
+
 BPF is a HTTP(s) proxy server facade that allows applications to authenticate through a Kerberos authenticated proxy server, typically used in corporate environments, 
 without having to deal with the actual handshake.
 
